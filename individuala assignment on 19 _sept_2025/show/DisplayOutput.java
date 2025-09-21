@@ -103,4 +103,6 @@ public class DisplayOutput {
            selected = sc.next().charAt(0);
         } while (selected == 'y');
     }
+    System.out.println("Thank you for using system");}
 }
+
